@@ -1,0 +1,7 @@
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\bin\Debug\LaboratoryWork3.exe.config
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\bin\Debug\LaboratoryWork3.exe
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\bin\Debug\LaboratoryWork3.pdb
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\obj\Debug\LaboratoryWork3.csproj.AssemblyReference.cache
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\obj\Debug\LaboratoryWork3.csproj.CoreCompileInputs.cache
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\obj\Debug\LaboratoryWork3.exe
+C:\Users\tatre\source\repos\LaboratoryWork3\LaboratoryWork3\obj\Debug\LaboratoryWork3.pdb
